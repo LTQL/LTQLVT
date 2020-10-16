@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTQLVT", "LTQLVT\LTQLVT.csproj", "{8F7D7A63-D49A-47DB-A52C-86BC127B9A53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F7D7A63-D49A-47DB-A52C-86BC127B9A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7D7A63-D49A-47DB-A52C-86BC127B9A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7D7A63-D49A-47DB-A52C-86BC127B9A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7D7A63-D49A-47DB-A52C-86BC127B9A53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B1B323C-8F05-4BF8-A9BD-5088084D1CA5}
+	EndGlobalSection
+EndGlobal
